@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "Obsidian",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:aws",
+      "color": {
+        "a": 1,
+        "rgb": 16764840
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Web Development\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Continuous Integration\"",
+      "color": {
+        "a": 1,
+        "rgb": 15435263
+      }
+    },
+    {
+      "query": "path:Carreer/Interviews",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Computer Science/Theory\"",
+      "color": {
+        "a": 1,
+        "rgb": 8929087
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.7,
+  "nodeSizeMultiplier": 1.46052819414704,
+  "lineSizeMultiplier": 1.60130264097074,
+  "collapse-forces": false,
+  "centerStrength": 0.743129907209136,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.7665721183302197,
+  "close": false
+}

@@ -1,0 +1,1 @@
+Framework using [[React.js]] and leveraging the power of [[React Server Components]] to be able to select which parts of the app are server rendered and which are client rendered, specially with the use of [[App Router]], which allows to render client components within server components through the use of [[React Hydration]]

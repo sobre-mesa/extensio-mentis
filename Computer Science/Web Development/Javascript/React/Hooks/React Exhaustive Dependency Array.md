@@ -1,0 +1,1 @@
+In [[React.js]], its the design choice of, for hooks like [[React.useEffect()]] or [[React.useCallback()]], requiring every single dependency of the code block to be put in the dependency array explicitly, this is also called [[React Explicit Dependency Array]]

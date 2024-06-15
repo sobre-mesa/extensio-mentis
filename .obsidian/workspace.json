@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "c490ad38096b390d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7372b2296f7b2def",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "067ebc52ecfd130e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Music/Guitar/Repertoire/Electric Guitar Repertoire.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cacd7cd4c905fd31",
+    "type": "split",
+    "children": [
+      {
+        "id": "40bbfa8ade833d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc2c481405f92767",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c11d9a26b659190b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1933f404ef54f399",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.50418853759766
+  },
+  "right": {
+    "id": "282bc7eee6a68002",
+    "type": "split",
+    "children": [
+      {
+        "id": "02f2be754d8fca97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fa43f86841334bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Music/Guitar/Repertoire/Electric Guitar Repertoire.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bbb142a8ddf2d27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Music/Guitar/Repertoire/Electric Guitar Repertoire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8246873cd042d483",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "69f9a51201b21ce8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Music/Guitar/Repertoire/Electric Guitar Repertoire.md"
+              }
+            }
+          },
+          {
+            "id": "d3fe938374174528",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "067ebc52ecfd130e",
+  "lastOpenFiles": [
+    "Music/Guitar/Chords/7th Chord.md",
+    "Don Juan/Planning/Edith.md",
+    "Don Juan/Planning/Don Juan Process Calendar.md",
+    "Don Juan/Planning/Don Juan Quickbooks.md",
+    "Music/Guitar/Repertoire/Acoustic Guitar Repertoire.md",
+    "Music/Guitar/Acoustic Guitar.md",
+    "Don Juan/Planning/Walter Suarez.md",
+    "Don Juan/Planning/General Plan Dump Document.md",
+    "Media/Screenshot 2024-01-02 at 9.19.33 PM.png",
+    "Don Juan/Planning/Enero 2024 - Cierre de Caja Subido Sprint 1.md",
+    "Don Juan/Planning/Enero 2024 - Salidas de Cajas Subidas Sprint 1.md",
+    "Don Juan/Planning/Enero 2024 - Cierre de Caja Desglozado.md",
+    "Music/Guitar/Blues/12 Bars of Blues/12 bars of Blues in A Riff Version.md",
+    "Music/Guitar/Journey And Training/January - February 2024/January - February 2024.md",
+    "Music/Guitar/Journey And Training/January - February 2024/12 Bar Of Blues Consolidation (Jan - Feb 2024).md",
+    "Music/Guitar/Journey And Training/January - February 2024/Slash Chord Consolidation.md",
+    "Music/Guitar/Journey And Training/January - February 2024/Basic Chords Consolidation(Jan - Feb 2024).md",
+    "Music/Guitar/Repertoire/Electric Guitar Repertoire.md",
+    "Music/Guitar/Tunings/Standard Tuning.md",
+    "Music/Guitar/Journey And Training/January - February 2024/Power Chord  Consolidation.md",
+    "Health/Health.md",
+    "Health/Mobility/Mobility.md",
+    "Health/Mobility/LeanBeefPatty Mobility Routine.md",
+    "Health/Mobility/Jeremy Ethier Short Mobility Routine.md",
+    "Don Juan/Planning/Vento Accounting System.md",
+    "Don Juan/Planning/Don Juan Help - General Plan.md",
+    "Music/Music Theory/Names of the Parts of a Note Symbol.md",
+    "Media/Screenshot 2024-01-02 at 9.18.51 PM.png",
+    "Media/Screenshot 2024-01-02 at 9.17.44 PM.png",
+    "Media/Screenshot 2024-01-02 at 9.17.25 PM.png",
+    "Music/Music Theory/Rythm",
+    "Media/Pasted image 20240102191129.png",
+    "Music/Guitar/Blues/12 Bars of Blues",
+    "Music/Guitar/Blues",
+    "Don Juan/Planning",
+    "Don Juan",
+    "Music/Guitar/Journey And Training/January - February 2024",
+    "Music/Planning",
+    "Media/Pasted image 20231223104836.png",
+    "Media/Pasted image 20231223105056.png",
+    "Media/Pasted image 20231223105050.png",
+    "Media/Pasted image 20231223105006.png",
+    "Media/Pasted image 20231223104946.png",
+    "Music/Music Production",
+    "Music/Guitar/Repertoire",
+    "Music/Guitar/Tunings",
+    "Carreer/Interviews/Full Stack/Rematter Interview Canvas.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

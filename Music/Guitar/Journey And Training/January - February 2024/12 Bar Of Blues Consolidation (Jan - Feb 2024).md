@@ -1,0 +1,77 @@
+- 7th Chords
+- [x] Memorize all 7th Chords 5 Minutes
+- [x] Memorize all 7th Chords 5 Minutes
+- [x] Memorize all 7th Chords 5 Minutes
+- [x] Memorize all 7th Chords 5 Minutes
+- [ ] Memorize all 7th Chords 5 Minutes
+- [ ] Memorize all 7th Chords 5 Minutes
+- [ ] Memorize all 7th Chords 5 Minutes
+- [ ] Memorize all 7th Chords 5 Minutes
+- [ ] Memorize all 7th Chords 5 Minutes
+
+Try to use a metronome
+
+- A  ([[12 bars of Blues in A Riff Version]])
+- [x] Practice 12 Bars of Blues in A (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- A
+- [x] Practice 12 Bars of Blues in A (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (5 Minutes) Went really well
+- [ ] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- [x] Practice 12 Bars of Blues in A (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in A (Slow) (5 Minutes)
+- G  
+- [x] Practice 12 Bars of Blues in G (5 Minutes)
+- [x] Practice 12 Bars of Blues in G (Fast) (5 Minutes)
+- [x] Practice 12 Bars of Blues in G (Slow) (5 Minutes)
+- [x] Practice 12 Bars of Blues in G (5 Minutes)
+- [x] Practice 12 Bars of Blues in G (Fast) (5 Minutes)
+- [x] Practice 12 Bars of Blues in G (Slow) (5 Minutes)
+- [x] Practice 12 Bars of Blues in G (5 Minutes)
+- [ ] Practice 12 Bars of Blues in G (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in G (Slow) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in G (5 Minutes)
+- [ ] Practice 12 Bars of Blues in G (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in G (Slow) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in G (5 Minutes)
+- [ ] Practice 12 Bars of Blues in G (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in G (Slow) (5 Minutes)
+- E 
+- [x] Practice 12 Bars of Blues in E (5 Minutes)
+- [x] Practice 12 Bars of Blues in E (Fast) (5 Minutes)
+- [x] Practice 12 Bars of Blues in E (Slow) (5 Minutes)
+- [x] Practice 12 Bars of Blues in E (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (Slow) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (Slow) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (Slow) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (Fast) (5 Minutes)
+- [ ] Practice 12 Bars of Blues in E (Slow) (5 Minutes

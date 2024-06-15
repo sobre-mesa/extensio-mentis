@@ -1,0 +1,1 @@
+ A database transaction is a series of logically grouped database operations: insert a row here, update a record there, and more stuff like that. Your application code is constantly making transactions every time you sign up a new user or that user updates their account information.

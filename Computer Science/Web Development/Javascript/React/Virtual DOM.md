@@ -1,0 +1,1 @@
+In [[React.js]], Its another copy of the [[DOM]] in memory, but optimized for making changes cheaper than just refreshing the whole thing 

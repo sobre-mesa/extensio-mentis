@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"type":"group","id":"d5bc53d7fa8393a5","x":-3240,"y":-4320,"width":1920,"height":1480,"label":"Job Posting Requirements"},
+		{"type":"group","id":"2ac82bec54739c9f","x":-3140,"y":-4200,"width":1100,"height":1260,"label":"AWS"},
+		{"type":"group","id":"ea9736d88e092564","x":-2000,"y":-4180,"width":597,"height":1240,"label":"CI/CD"},
+		{"type":"file","file":"Computer Science/AWS/Compute/AWS Lambda.md","id":"6f93995e9492954f","x":-3120,"y":-4160,"width":530,"height":540},
+		{"type":"file","file":"Computer Science/AWS/Security, Identity & Compliance/AWS Cognito.md","id":"f74ce8bcd2031fea","x":-2543,"y":-4160,"width":463,"height":540},
+		{"type":"file","file":"Computer Science/Continuous Integration/Github Actions.md","id":"4b49c3db6b67e985","x":-1900,"y":-4100,"width":400,"height":480},
+		{"type":"file","file":"Computer Science/AWS/Database/AWS RDS.md","id":"e0a3b5cd01d598ab","x":-3120,"y":-3535,"width":530,"height":540},
+		{"type":"file","file":"Computer Science/AWS/Storage/AWS S3.md","id":"a81c06cb5ff9dd56","x":-2543,"y":-3535,"width":463,"height":540},
+		{"type":"file","file":"Carreer/Interviews/Full Stack/ReMatter Interview/Rematter Job Posting.md","id":"cd7bed3847ec57b4","x":-3950,"y":-3220,"width":400,"height":540},
+		{"type":"file","file":"Carreer/Interviews/Full Stack/ReMatter Interview/ReMatter Interview.md","id":"f01cb13cffb16581","x":-3255,"y":-2780,"width":400,"height":535},
+		{"type":"file","file":"Computer Science/Docker/Docker.md","id":"13179616682cb5fd","x":-1900,"y":-3560,"width":400,"height":540},
+		{"type":"file","file":"Carreer/Interviews/Full Stack/ReMatter Interview/Rematter Interview Phase 4.md","id":"4aa896d67ef829db","x":-1400,"y":-2160,"width":400,"height":400},
+		{"type":"file","file":"Carreer/Interviews/Full Stack/ReMatter Interview/Rematter Interview Phase 2.md","id":"68468f90b1c826c7","x":-4410,"y":-2127,"width":660,"height":1130},
+		{"type":"file","file":"Carreer/Interviews/Full Stack/ReMatter Interview/Rematter Interview Phase 3.md","id":"6dffcc656f234b4c","x":-3515,"y":-2127,"width":660,"height":1130},
+		{"type":"file","file":"Computer Science/Theory/CAP Theorem.md","id":"2c22cd3827312576","x":-3780,"y":-840,"width":460,"height":555},
+		{"type":"file","file":"Computer Science/Theory/Race Conditions.md","id":"91e060044cd0aa82","x":-3255,"y":-840,"width":400,"height":380},
+		{"type":"file","file":"Computer Science/Web Development/Javascript/Array.Reduce.md","id":"633e85e6b0894c81","x":-2760,"y":-840,"width":400,"height":555},
+		{"type":"file","file":"Computer Science/Web Development/Javascript/React/Virtual DOM.md","id":"e4e6ea6b53764327","x":-2240,"y":-840,"width":400,"height":400},
+		{"type":"file","file":"Computer Science/Web Development/Javascript/Event Loop.md","id":"66db739a19661a71","x":-1720,"y":-840,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"a4edaeda3a0d9280","fromNode":"f01cb13cffb16581","fromSide":"bottom","toNode":"68468f90b1c826c7","toSide":"top"},
+		{"id":"fdc4eeec8c6e824f","fromNode":"f01cb13cffb16581","fromSide":"left","toNode":"cd7bed3847ec57b4","toSide":"bottom"},
+		{"id":"2d47818aa46016a1","fromNode":"cd7bed3847ec57b4","fromSide":"right","toNode":"d5bc53d7fa8393a5","toSide":"left"},
+		{"id":"d6ff3b5417bd2bb3","fromNode":"f01cb13cffb16581","fromSide":"bottom","toNode":"6dffcc656f234b4c","toSide":"top"},
+		{"id":"616a25bc3f94cec1","fromNode":"6dffcc656f234b4c","fromSide":"bottom","toNode":"2c22cd3827312576","toSide":"top"},
+		{"id":"b1ea038a2be24f74","fromNode":"6dffcc656f234b4c","fromSide":"bottom","toNode":"633e85e6b0894c81","toSide":"top"},
+		{"id":"9f2cd298dbecdd89","fromNode":"6dffcc656f234b4c","fromSide":"bottom","toNode":"91e060044cd0aa82","toSide":"top"},
+		{"id":"318799ecb339a984","fromNode":"6dffcc656f234b4c","fromSide":"bottom","toNode":"e4e6ea6b53764327","toSide":"top"},
+		{"id":"26cd2bd823788b33","fromNode":"6dffcc656f234b4c","fromSide":"bottom","toNode":"66db739a19661a71","toSide":"top"}
+	]
+}

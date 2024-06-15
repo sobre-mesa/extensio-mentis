@@ -1,0 +1,36 @@
+- Basic Chords
+	- [x] Perfect all Basic Chords 5 Minutes
+	- [x] Perfect all Basic Chords 5 Minutes
+	- [ ] Perfect all Basic Chords 5 Minutes
+	- [ ] Perfect all Basic Chords 5 Minutes
+- Chords Progressions (Key of C)
+	- 1:  1 - 5 - 6 - 4
+		- [x] C G Am F ( 5 Min) 
+		- [ ] C G Am F ( 5 Min) 
+		- [ ] C G Am F ( 5 Min) 
+		- [ ] C G Am F ( 5 Min) 
+		- [ ] C G Am F ( 5 Min) 
+	- 2: 6 - 4 - 1 -5
+		- [ ] Am F C G 
+		- [ ] Am F C G 
+		- [ ] Am F C G 
+		- [ ] Am F C G 
+		- [ ] Am F C G 
+	- 3: 1 - 4 -5 - 4	
+		- [ ] C - F - G - F 
+		- [ ] C - F - G - F 
+		- [ ] C - F - G - F 
+		- [ ] C - F - G - F 
+		- [ ] C - F - G - F 
+	- 4: 1 - 6- 4 -5
+		- [ ] C Am F G
+		- [ ] C Am F G
+		- [ ] C Am F G
+		- [ ] C Am F G
+		- [ ] C Am F G
+	- 5: 2 -5 - 1 -6 
+		- [ ] Dm G C Am
+		- [ ] Dm G C Am
+		- [ ] Dm G C Am
+		- [ ] Dm G C Am
+		- [ ] Dm G C Am

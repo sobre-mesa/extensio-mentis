@@ -1,0 +1,1 @@
+In [[Javascript]] its the Document Object Model, basically a copy of the html in memory, so it can be manipulated by javascript.

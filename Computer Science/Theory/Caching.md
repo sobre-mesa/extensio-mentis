@@ -1,0 +1,3 @@
+- **Least Recently Used** (LRU): deletes the least recently used items first. This algorithm requires keeping track of what was used when. This is expensive if one wants to make sure the algorithm always discards _the_ least recently used item. General implementations of this technique require to keep "age bits" for cache-lines and track the "Least Recently Used" cache-line based on age-bits. In such implementation, every time a cache-line is used, the age of all other cache-lines changes.
+
+- **Most Recently Used** (MRU): This algorithm deletes the most recently used items first. This caching mechanism is commonly used for [database](https://simple.wikipedia.org/wiki/Database "Database") memory caches.
